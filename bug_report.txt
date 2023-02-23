@@ -1,0 +1,9 @@
+id
+title
+steps
+expected result
+actual result
+attachment
+severity
+priority
+status
